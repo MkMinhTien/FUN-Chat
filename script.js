@@ -1,0 +1,1 @@
+$(document).ready(function (){setTimeout(()=>{window.location.assign("https://discord.gg/W2vh6An")}, 3000);})
